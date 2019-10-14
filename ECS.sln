@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECS.Desktop.WindowsApplication", "ECS.Desktop.WindowsApplication\ECS.Desktop.WindowsApplication.csproj", "{FF7D2731-2B59-46C6-BEA9-6E36BEDD381B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECS.ElectricalControls", "ECS.ElectricalControls\ECS.ElectricalControls.csproj", "{54E02A24-B95F-4EE9-A1B0-242C2CAE782A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF7D2731-2B59-46C6-BEA9-6E36BEDD381B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF7D2731-2B59-46C6-BEA9-6E36BEDD381B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF7D2731-2B59-46C6-BEA9-6E36BEDD381B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF7D2731-2B59-46C6-BEA9-6E36BEDD381B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54E02A24-B95F-4EE9-A1B0-242C2CAE782A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E02A24-B95F-4EE9-A1B0-242C2CAE782A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54E02A24-B95F-4EE9-A1B0-242C2CAE782A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54E02A24-B95F-4EE9-A1B0-242C2CAE782A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92AB3FAD-362C-4F59-A465-0361F28F5514}
+	EndGlobalSection
+EndGlobal

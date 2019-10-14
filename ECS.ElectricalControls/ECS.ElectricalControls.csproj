@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
-    <AssemblyName>ElectricalControlSystem.ElectricalControls</AssemblyName>
+    <AssemblyName>ECS.ElectricalControls</AssemblyName>
   </PropertyGroup>
 
 </Project>
