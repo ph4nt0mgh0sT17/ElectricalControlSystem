@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ElectricalControls
+namespace ECS.ElectricalControls
 {
     /// <summary>
     /// An electrical lead to electrical controls.

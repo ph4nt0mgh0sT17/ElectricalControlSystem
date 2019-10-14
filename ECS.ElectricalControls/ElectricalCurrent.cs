@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Text;
 
-namespace ElectricalControls
+namespace ECS.ElectricalControls
 {
     public class ElectricalCurrent
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ElectricalControls
+namespace ECS.ElectricalControls
 {
     /// <summary>
     /// The electrical control Lamp.

@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace ElectricalControlSystem.Desktop.WindowsApplication
+namespace ECS.Desktop.WindowsApplication
 {
     /// <summary>
     /// Interaction logic for App.xaml

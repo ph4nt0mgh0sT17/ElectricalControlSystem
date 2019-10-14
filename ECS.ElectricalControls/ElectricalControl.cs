@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ElectricalControls
+namespace ECS.ElectricalControls
 {
     /// <summary>
     /// An abstract class of all electrical controls.
